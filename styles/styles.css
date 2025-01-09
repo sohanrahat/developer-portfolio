@@ -21,6 +21,10 @@
     color: #474747;
 }
 
+.dark-3 {
+    #757575;
+}
+
 .btn-primary {
     background-color: #FD6E0A;
     color: white;
@@ -158,7 +162,12 @@ main {
     border-radius: 5px;
 }
 
+/* Resume */
 
+.resume-container {
+    display: flex;
+    gap: 24px;
+}
 
 
 
